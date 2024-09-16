@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="github-header-image.png"  />
+  ![Header](./header.png)
 </div>
 
 ###
