@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently learning NextJs<br>- 📚 Ask me about Website development <br>- ⚡  How to reach me aliihassan8090@gmail.com</p>
+<p align="left">- 🔭 I’m currently learning <strong>NextJs</strong><br>- 📚 Ask me about <strong>Website development</strong> <br>- ⚡  How to reach me <strong> <a href"mailto:aliihassan8090@gmail.com">aliihassan8090@gmail.com</a> </strong></p>
 
 ###
 
