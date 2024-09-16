@@ -4,7 +4,19 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
+
+###
+
+<h1 align="center">hey 👋, I'm Ali Hassan</h1>
+
+###
+
+<p align="left">- 🔭 I’m currently learning <strong>NextJs</strong><br>- 📚 Ask me about <strong>Website development</strong> <br>- ⚡  How to reach me <strong> <a href"mailto:aliihassan8090@gmail.com">aliihassan8090@gmail.com</a> </strong></p>
+
+###
+
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -22,24 +34,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AliiiHassann.AliiiHassann&"  />
-</div>
-
-###
-
-<h3 align="center">A passionate frontend developer from Egypt</h3>
-
-###
-
-<h1 align="center">hey 👋, I'm Ali Hassan</h1>
-
-###
-
-<p align="left">- 🔭 I’m currently learning <strong>NextJs</strong><br>- 📚 Ask me about <strong>Website development</strong> <br>- ⚡  How to reach me <strong> <a href"mailto:aliihassan8090@gmail.com">aliihassan8090@gmail.com</a> </strong></p>
 
 ###
 
